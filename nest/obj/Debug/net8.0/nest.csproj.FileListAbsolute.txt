@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\nest\bin\Debug\net8.0\nest.exe
+C:\Users\winso\Documents\repos\CsharpProjects\nest\bin\Debug\net8.0\nest.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\nest\bin\Debug\net8.0\nest.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\nest\bin\Debug\net8.0\nest.dll
+C:\Users\winso\Documents\repos\CsharpProjects\nest\bin\Debug\net8.0\nest.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\nest\obj\Debug\net8.0\nest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\nest\obj\Debug\net8.0\nest.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\nest\obj\Debug\net8.0\nest.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\nest\obj\Debug\net8.0\nest.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\nest\obj\Debug\net8.0\nest.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\nest\obj\Debug\net8.0\nest.dll
+C:\Users\winso\Documents\repos\CsharpProjects\nest\obj\Debug\net8.0\refint\nest.dll
+C:\Users\winso\Documents\repos\CsharpProjects\nest\obj\Debug\net8.0\nest.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\nest\obj\Debug\net8.0\nest.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\nest\obj\Debug\net8.0\ref\nest.dll
