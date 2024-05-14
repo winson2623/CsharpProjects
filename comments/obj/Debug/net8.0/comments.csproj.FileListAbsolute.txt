@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\comments\bin\Debug\net8.0\comments.exe
+C:\Users\winso\Documents\repos\CsharpProjects\comments\bin\Debug\net8.0\comments.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\comments\bin\Debug\net8.0\comments.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\comments\bin\Debug\net8.0\comments.dll
+C:\Users\winso\Documents\repos\CsharpProjects\comments\bin\Debug\net8.0\comments.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\comments\obj\Debug\net8.0\comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\comments\obj\Debug\net8.0\comments.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\comments\obj\Debug\net8.0\comments.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\comments\obj\Debug\net8.0\comments.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\comments\obj\Debug\net8.0\comments.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\comments\obj\Debug\net8.0\comments.dll
+C:\Users\winso\Documents\repos\CsharpProjects\comments\obj\Debug\net8.0\refint\comments.dll
+C:\Users\winso\Documents\repos\CsharpProjects\comments\obj\Debug\net8.0\comments.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\comments\obj\Debug\net8.0\comments.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\comments\obj\Debug\net8.0\ref\comments.dll
