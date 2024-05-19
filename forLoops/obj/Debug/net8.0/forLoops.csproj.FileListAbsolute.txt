@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\bin\Debug\net8.0\forLoops.exe
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\bin\Debug\net8.0\forLoops.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\bin\Debug\net8.0\forLoops.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\bin\Debug\net8.0\forLoops.dll
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\bin\Debug\net8.0\forLoops.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\obj\Debug\net8.0\forLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\obj\Debug\net8.0\forLoops.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\obj\Debug\net8.0\forLoops.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\obj\Debug\net8.0\forLoops.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\obj\Debug\net8.0\forLoops.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\obj\Debug\net8.0\forLoops.dll
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\obj\Debug\net8.0\refint\forLoops.dll
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\obj\Debug\net8.0\forLoops.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\obj\Debug\net8.0\forLoops.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\forLoops\obj\Debug\net8.0\ref\forLoops.dll
