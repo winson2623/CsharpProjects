@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\bin\Debug\net8.0\codeBlock.exe
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\bin\Debug\net8.0\codeBlock.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\bin\Debug\net8.0\codeBlock.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\bin\Debug\net8.0\codeBlock.dll
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\bin\Debug\net8.0\codeBlock.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\obj\Debug\net8.0\codeBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\obj\Debug\net8.0\codeBlock.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\obj\Debug\net8.0\codeBlock.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\obj\Debug\net8.0\codeBlock.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\obj\Debug\net8.0\codeBlock.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\obj\Debug\net8.0\codeBlock.dll
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\obj\Debug\net8.0\refint\codeBlock.dll
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\obj\Debug\net8.0\codeBlock.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\obj\Debug\net8.0\codeBlock.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\codeBlock\obj\Debug\net8.0\ref\codeBlock.dll
