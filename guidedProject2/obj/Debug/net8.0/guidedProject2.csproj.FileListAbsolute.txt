@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\obj\Debug\net8.0\guidedProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\obj\Debug\net8.0\guidedProject2.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\obj\Debug\net8.0\guidedProject2.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\obj\Debug\net8.0\guidedProject2.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\obj\Debug\net8.0\guidedProject2.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\bin\Debug\net8.0\guidedProject2.exe
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\bin\Debug\net8.0\guidedProject2.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\bin\Debug\net8.0\guidedProject2.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\bin\Debug\net8.0\guidedProject2.dll
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\bin\Debug\net8.0\guidedProject2.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\obj\Debug\net8.0\guidedProject2.dll
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\obj\Debug\net8.0\refint\guidedProject2.dll
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\obj\Debug\net8.0\guidedProject2.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\obj\Debug\net8.0\guidedProject2.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject2\obj\Debug\net8.0\ref\guidedProject2.dll
