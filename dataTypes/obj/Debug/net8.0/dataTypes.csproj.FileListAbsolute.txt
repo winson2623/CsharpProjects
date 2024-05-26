@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\bin\Debug\net8.0\dataTypes.exe
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\bin\Debug\net8.0\dataTypes.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\bin\Debug\net8.0\dataTypes.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\bin\Debug\net8.0\dataTypes.dll
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\bin\Debug\net8.0\dataTypes.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.dll
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\obj\Debug\net8.0\refint\dataTypes.dll
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypes\obj\Debug\net8.0\ref\dataTypes.dll
