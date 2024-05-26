@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\bin\Debug\net8.0\dataTypeConversion.exe
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\bin\Debug\net8.0\dataTypeConversion.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\bin\Debug\net8.0\dataTypeConversion.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\bin\Debug\net8.0\dataTypeConversion.dll
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\bin\Debug\net8.0\dataTypeConversion.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.dll
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\obj\Debug\net8.0\refint\dataTypeConversion.dll
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\dataTypeConversion\obj\Debug\net8.0\ref\dataTypeConversion.dll
