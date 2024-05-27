@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\bin\Debug\net8.0\alphanumericData.exe
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\bin\Debug\net8.0\alphanumericData.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\bin\Debug\net8.0\alphanumericData.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\bin\Debug\net8.0\alphanumericData.dll
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\bin\Debug\net8.0\alphanumericData.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\obj\Debug\net8.0\alphanumericData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\obj\Debug\net8.0\alphanumericData.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\obj\Debug\net8.0\alphanumericData.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\obj\Debug\net8.0\alphanumericData.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\obj\Debug\net8.0\alphanumericData.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\obj\Debug\net8.0\alphanumericData.dll
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\obj\Debug\net8.0\refint\alphanumericData.dll
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\obj\Debug\net8.0\alphanumericData.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\obj\Debug\net8.0\alphanumericData.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\alphanumericData\obj\Debug\net8.0\ref\alphanumericData.dll
