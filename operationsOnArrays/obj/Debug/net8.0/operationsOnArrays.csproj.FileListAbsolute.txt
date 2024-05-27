@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\bin\Debug\net8.0\operationsOnArrays.exe
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\bin\Debug\net8.0\operationsOnArrays.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\bin\Debug\net8.0\operationsOnArrays.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\bin\Debug\net8.0\operationsOnArrays.dll
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\bin\Debug\net8.0\operationsOnArrays.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\obj\Debug\net8.0\operationsOnArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\obj\Debug\net8.0\operationsOnArrays.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\obj\Debug\net8.0\operationsOnArrays.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\obj\Debug\net8.0\operationsOnArrays.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\obj\Debug\net8.0\operationsOnArrays.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\obj\Debug\net8.0\operationsOnArrays.dll
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\obj\Debug\net8.0\refint\operationsOnArrays.dll
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\obj\Debug\net8.0\operationsOnArrays.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\obj\Debug\net8.0\operationsOnArrays.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\operationsOnArrays\obj\Debug\net8.0\ref\operationsOnArrays.dll
