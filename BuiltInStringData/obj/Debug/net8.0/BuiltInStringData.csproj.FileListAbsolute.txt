@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\bin\Debug\net8.0\BuiltInStringData.exe
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\bin\Debug\net8.0\BuiltInStringData.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\bin\Debug\net8.0\BuiltInStringData.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\bin\Debug\net8.0\BuiltInStringData.dll
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\bin\Debug\net8.0\BuiltInStringData.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\obj\Debug\net8.0\BuiltInStringData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\obj\Debug\net8.0\BuiltInStringData.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\obj\Debug\net8.0\BuiltInStringData.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\obj\Debug\net8.0\BuiltInStringData.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\obj\Debug\net8.0\BuiltInStringData.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\obj\Debug\net8.0\BuiltInStringData.dll
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\obj\Debug\net8.0\refint\BuiltInStringData.dll
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\obj\Debug\net8.0\BuiltInStringData.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\obj\Debug\net8.0\BuiltInStringData.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\BuiltInStringData\obj\Debug\net8.0\ref\BuiltInStringData.dll

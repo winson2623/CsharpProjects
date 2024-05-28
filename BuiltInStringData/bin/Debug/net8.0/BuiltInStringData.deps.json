@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BuiltInStringData/1.0.0": {
+        "runtime": {
+          "BuiltInStringData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuiltInStringData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
