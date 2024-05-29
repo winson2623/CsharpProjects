@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\bin\Debug\net8.0\guidedProject3.exe
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\bin\Debug\net8.0\guidedProject3.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\bin\Debug\net8.0\guidedProject3.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\bin\Debug\net8.0\guidedProject3.dll
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\bin\Debug\net8.0\guidedProject3.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\obj\Debug\net8.0\guidedProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\obj\Debug\net8.0\guidedProject3.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\obj\Debug\net8.0\guidedProject3.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\obj\Debug\net8.0\guidedProject3.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\obj\Debug\net8.0\guidedProject3.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\obj\Debug\net8.0\guidedProject3.dll
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\obj\Debug\net8.0\refint\guidedProject3.dll
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\obj\Debug\net8.0\guidedProject3.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\obj\Debug\net8.0\guidedProject3.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProject3\obj\Debug\net8.0\ref\guidedProject3.dll
