@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "variableDataChallenegeProject/1.0.0": {
+        "runtime": {
+          "variableDataChallenegeProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "variableDataChallenegeProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

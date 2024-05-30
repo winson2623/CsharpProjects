@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\bin\Debug\net8.0\variableDataChallenegeProject.exe
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\bin\Debug\net8.0\variableDataChallenegeProject.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\bin\Debug\net8.0\variableDataChallenegeProject.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\bin\Debug\net8.0\variableDataChallenegeProject.dll
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\bin\Debug\net8.0\variableDataChallenegeProject.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\obj\Debug\net8.0\variableDataChallenegeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\obj\Debug\net8.0\variableDataChallenegeProject.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\obj\Debug\net8.0\variableDataChallenegeProject.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\obj\Debug\net8.0\variableDataChallenegeProject.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\obj\Debug\net8.0\variableDataChallenegeProject.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\obj\Debug\net8.0\variableDataChallenegeProject.dll
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\obj\Debug\net8.0\refint\variableDataChallenegeProject.dll
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\obj\Debug\net8.0\variableDataChallenegeProject.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\obj\Debug\net8.0\variableDataChallenegeProject.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\variableDataChallenegeProject\obj\Debug\net8.0\ref\variableDataChallenegeProject.dll
