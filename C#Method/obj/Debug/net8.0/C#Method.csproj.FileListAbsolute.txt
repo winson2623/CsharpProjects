@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\bin\Debug\net8.0\C#Method.exe
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\bin\Debug\net8.0\C#Method.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\bin\Debug\net8.0\C#Method.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\bin\Debug\net8.0\C#Method.dll
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\bin\Debug\net8.0\C#Method.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\obj\Debug\net8.0\C#Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\obj\Debug\net8.0\C#Method.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\obj\Debug\net8.0\C#Method.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\obj\Debug\net8.0\C#Method.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\obj\Debug\net8.0\C#Method.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\obj\Debug\net8.0\C#Method.dll
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\obj\Debug\net8.0\refint\C#Method.dll
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\obj\Debug\net8.0\C#Method.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\obj\Debug\net8.0\C#Method.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\C#Method\obj\Debug\net8.0\ref\C#Method.dll
