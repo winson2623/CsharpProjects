@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\bin\Debug\net8.0\guidedProjects4.exe
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\bin\Debug\net8.0\guidedProjects4.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\bin\Debug\net8.0\guidedProjects4.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\bin\Debug\net8.0\guidedProjects4.dll
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\bin\Debug\net8.0\guidedProjects4.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\obj\Debug\net8.0\guidedProjects4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\obj\Debug\net8.0\guidedProjects4.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\obj\Debug\net8.0\guidedProjects4.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\obj\Debug\net8.0\guidedProjects4.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\obj\Debug\net8.0\guidedProjects4.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\obj\Debug\net8.0\guidedProjects4.dll
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\obj\Debug\net8.0\refint\guidedProjects4.dll
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\obj\Debug\net8.0\guidedProjects4.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\obj\Debug\net8.0\guidedProjects4.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\guidedProjects4\obj\Debug\net8.0\ref\guidedProjects4.dll
