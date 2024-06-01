@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\obj\Debug\net8.0\methodsWithParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\obj\Debug\net8.0\methodsWithParameters.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\obj\Debug\net8.0\methodsWithParameters.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\obj\Debug\net8.0\methodsWithParameters.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\obj\Debug\net8.0\methodsWithParameters.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\bin\Debug\net8.0\methodsWithParameters.exe
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\bin\Debug\net8.0\methodsWithParameters.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\bin\Debug\net8.0\methodsWithParameters.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\bin\Debug\net8.0\methodsWithParameters.dll
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\bin\Debug\net8.0\methodsWithParameters.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\obj\Debug\net8.0\methodsWithParameters.dll
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\obj\Debug\net8.0\refint\methodsWithParameters.dll
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\obj\Debug\net8.0\methodsWithParameters.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\obj\Debug\net8.0\methodsWithParameters.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\methodsWithParameters\obj\Debug\net8.0\ref\methodsWithParameters.dll
