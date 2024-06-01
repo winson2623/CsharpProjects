@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\bin\Debug\net8.0\methodsThatReturnValue.exe
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\bin\Debug\net8.0\methodsThatReturnValue.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\bin\Debug\net8.0\methodsThatReturnValue.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\bin\Debug\net8.0\methodsThatReturnValue.dll
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\bin\Debug\net8.0\methodsThatReturnValue.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\obj\Debug\net8.0\methodsThatReturnValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\obj\Debug\net8.0\methodsThatReturnValue.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\obj\Debug\net8.0\methodsThatReturnValue.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\obj\Debug\net8.0\methodsThatReturnValue.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\obj\Debug\net8.0\methodsThatReturnValue.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\obj\Debug\net8.0\methodsThatReturnValue.dll
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\obj\Debug\net8.0\refint\methodsThatReturnValue.dll
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\obj\Debug\net8.0\methodsThatReturnValue.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\obj\Debug\net8.0\methodsThatReturnValue.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\methodsThatReturnValue\obj\Debug\net8.0\ref\methodsThatReturnValue.dll
