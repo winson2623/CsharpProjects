@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\bin\Debug\net8.0\createMiniGame.exe
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\bin\Debug\net8.0\createMiniGame.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\bin\Debug\net8.0\createMiniGame.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\bin\Debug\net8.0\createMiniGame.dll
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\bin\Debug\net8.0\createMiniGame.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\obj\Debug\net8.0\createMiniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\obj\Debug\net8.0\createMiniGame.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\obj\Debug\net8.0\createMiniGame.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\obj\Debug\net8.0\createMiniGame.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\obj\Debug\net8.0\createMiniGame.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\obj\Debug\net8.0\createMiniGame.dll
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\obj\Debug\net8.0\refint\createMiniGame.dll
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\obj\Debug\net8.0\createMiniGame.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\obj\Debug\net8.0\createMiniGame.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\createMiniGame\obj\Debug\net8.0\ref\createMiniGame.dll
