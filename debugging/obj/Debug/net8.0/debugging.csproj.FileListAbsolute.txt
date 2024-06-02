@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\bin\Debug\net8.0\debugging.exe
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\bin\Debug\net8.0\debugging.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\bin\Debug\net8.0\debugging.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\bin\Debug\net8.0\debugging.dll
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\bin\Debug\net8.0\debugging.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\obj\Debug\net8.0\debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\obj\Debug\net8.0\debugging.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\obj\Debug\net8.0\debugging.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\obj\Debug\net8.0\debugging.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\obj\Debug\net8.0\debugging.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\obj\Debug\net8.0\debugging.dll
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\obj\Debug\net8.0\refint\debugging.dll
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\obj\Debug\net8.0\debugging.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\obj\Debug\net8.0\debugging.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\debugging\obj\Debug\net8.0\ref\debugging.dll
