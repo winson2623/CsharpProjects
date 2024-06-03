@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\bin\Debug\net8.0\debugTools.exe
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\bin\Debug\net8.0\debugTools.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\bin\Debug\net8.0\debugTools.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\bin\Debug\net8.0\debugTools.dll
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\bin\Debug\net8.0\debugTools.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\obj\Debug\net8.0\debugTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\obj\Debug\net8.0\debugTools.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\obj\Debug\net8.0\debugTools.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\obj\Debug\net8.0\debugTools.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\obj\Debug\net8.0\debugTools.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\obj\Debug\net8.0\debugTools.dll
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\obj\Debug\net8.0\refint\debugTools.dll
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\obj\Debug\net8.0\debugTools.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\obj\Debug\net8.0\debugTools.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\debugTools\obj\Debug\net8.0\ref\debugTools.dll
