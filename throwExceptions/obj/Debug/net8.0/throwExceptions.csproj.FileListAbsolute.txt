@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\bin\Debug\net8.0\throwExceptions.exe
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\bin\Debug\net8.0\throwExceptions.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\bin\Debug\net8.0\throwExceptions.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\bin\Debug\net8.0\throwExceptions.dll
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\bin\Debug\net8.0\throwExceptions.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\obj\Debug\net8.0\throwExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\obj\Debug\net8.0\throwExceptions.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\obj\Debug\net8.0\throwExceptions.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\obj\Debug\net8.0\throwExceptions.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\obj\Debug\net8.0\throwExceptions.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\obj\Debug\net8.0\throwExceptions.dll
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\obj\Debug\net8.0\refint\throwExceptions.dll
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\obj\Debug\net8.0\throwExceptions.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\obj\Debug\net8.0\throwExceptions.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\throwExceptions\obj\Debug\net8.0\ref\throwExceptions.dll
