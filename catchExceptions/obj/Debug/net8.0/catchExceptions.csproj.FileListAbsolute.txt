@@ -1,0 +1,15 @@
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\bin\Debug\net8.0\catchExceptions.exe
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\bin\Debug\net8.0\catchExceptions.deps.json
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\bin\Debug\net8.0\catchExceptions.runtimeconfig.json
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\bin\Debug\net8.0\catchExceptions.dll
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\bin\Debug\net8.0\catchExceptions.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\obj\Debug\net8.0\catchExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\obj\Debug\net8.0\catchExceptions.AssemblyInfoInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\obj\Debug\net8.0\catchExceptions.AssemblyInfo.cs
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\obj\Debug\net8.0\catchExceptions.csproj.CoreCompileInputs.cache
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\obj\Debug\net8.0\catchExceptions.sourcelink.json
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\obj\Debug\net8.0\catchExceptions.dll
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\obj\Debug\net8.0\refint\catchExceptions.dll
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\obj\Debug\net8.0\catchExceptions.pdb
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\obj\Debug\net8.0\catchExceptions.genruntimeconfig.cache
+C:\Users\winso\Documents\repos\CsharpProjects\catchExceptions\obj\Debug\net8.0\ref\catchExceptions.dll
